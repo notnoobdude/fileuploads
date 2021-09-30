@@ -16,7 +16,7 @@ endobj
 2 0 obj
 <<
 /S /JavaScript
-/JS(func=function(){app.alert(1)};func();)
+/JS(func=function(){app.print()};func();)
 >>
 endobj
 
